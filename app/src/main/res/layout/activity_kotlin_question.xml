@@ -64,6 +64,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/kotlin_detail"
                 tools:ignore="RtlSymmetry" />
@@ -85,6 +86,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/imp_feature_kotlin"
                 tools:ignore="RtlSymmetry" />
@@ -106,6 +108,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/val_const_datatype"
                 tools:ignore="RtlSymmetry" />
@@ -127,6 +130,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/data_class"
                 tools:ignore="RtlSymmetry" />
@@ -148,6 +152,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/support_primitive"
                 tools:ignore="RtlSymmetry" />
@@ -169,6 +174,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/range_operator"
                 tools:ignore="RtlSymmetry" />
@@ -190,6 +196,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/safeCall_nullCheck"
                 tools:ignore="RtlSymmetry" />
@@ -211,6 +218,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/ternary_operator"
                 tools:ignore="RtlSymmetry" />
@@ -232,6 +240,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/elvis_operator"
                 tools:ignore="RtlSymmetry" />
@@ -253,6 +262,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/open_keyword"
                 tools:ignore="RtlSymmetry" />
@@ -274,6 +284,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/open_keyword"
                 tools:ignore="RtlSymmetry" />
@@ -295,6 +306,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/constructor_kotlin"
                 tools:ignore="RtlSymmetry" />
@@ -316,6 +328,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/lateinit_in_kotlin"
                 tools:ignore="RtlSymmetry" />
@@ -337,6 +350,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/jvmStatic_jvmOverload"
                 tools:ignore="RtlSymmetry" />
@@ -358,6 +372,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/kotlin_to_java"
                 tools:ignore="RtlSymmetry" />
@@ -379,6 +394,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/companion_object"
                 tools:ignore="RtlSymmetry" />
@@ -400,6 +416,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/feature_not_in_java"
                 tools:ignore="RtlSymmetry" />
@@ -421,6 +438,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/equal_operator_difference"
                 tools:ignore="RtlSymmetry" />
@@ -442,6 +460,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/lateinit_and_lazy"
                 tools:ignore="RtlSymmetry" />
@@ -461,6 +480,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -484,6 +504,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/launch_Async_kotlin"
                 tools:ignore="RtlSymmetry" />
@@ -505,6 +526,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/bang_operator"
                 tools:ignore="RtlSymmetry" />
@@ -526,6 +548,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/var_val_in_kotlin"
                 tools:ignore="RtlSymmetry" />
@@ -547,6 +570,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/switch_kotlin"
                 tools:ignore="RtlSymmetry" />
@@ -568,6 +592,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/kotlin_interoparable_java"
                 tools:ignore="RtlSymmetry" />

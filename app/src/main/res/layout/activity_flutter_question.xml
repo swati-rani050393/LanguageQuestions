@@ -64,6 +64,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/flutter_native_hybrid"
                 tools:ignore="RtlSymmetry" />
@@ -85,6 +86,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/flutter_detail"
                 tools:ignore="RtlSymmetry" />
@@ -106,6 +108,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/which_language"
                 tools:ignore="RtlSymmetry" />
@@ -127,6 +130,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/async_await_future_isolate"
                 tools:ignore="RtlSymmetry" />
@@ -148,6 +152,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/main_in_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -169,6 +174,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/runApp_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -190,6 +196,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/material_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -211,6 +218,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/scafford_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -232,6 +240,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/stateful_stateless"
                 tools:ignore="RtlSymmetry" />
@@ -253,6 +262,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/lifecycle_of_stateful_widget"
                 tools:ignore="RtlSymmetry" />
@@ -274,6 +284,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/initState"
                 tools:ignore="RtlSymmetry" />
@@ -295,6 +306,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/build_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -314,6 +326,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -337,6 +350,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/shared_preference"
                 tools:ignore="RtlSymmetry" />
@@ -358,6 +372,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/pubspec_detail"
                 tools:ignore="RtlSymmetry" />
@@ -379,6 +394,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/flutter_create_and_run_command"
                 tools:ignore="RtlSymmetry" />
@@ -400,6 +416,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/sqlite_database"
                 tools:ignore="RtlSymmetry" />
@@ -421,6 +438,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/webservice_dart"
                 tools:ignore="RtlSymmetry" />
@@ -442,6 +460,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/key_in_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -463,6 +482,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/navigator_in_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -484,6 +504,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/push_pop_pushNamed"
                 tools:ignore="RtlSymmetry" />
@@ -505,6 +526,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/context_in_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -526,6 +548,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/stateful_stateless"
                 tools:ignore="RtlSymmetry" />
@@ -547,6 +570,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/builder_in_flutter"
                 tools:ignore="RtlSymmetry" />
@@ -568,6 +592,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/materialApp_widgetApp"
                 tools:ignore="RtlSymmetry" />
@@ -589,6 +614,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/push_and_pushReplacement"
                 tools:ignore="RtlSymmetry" />
@@ -610,6 +636,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/WidgetInspector_in_Flutter"
                 tools:ignore="RtlSymmetry" />
@@ -631,6 +658,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/GridView_and_ListView_in_Flutter"
                 tools:ignore="RtlSymmetry" />
@@ -650,6 +678,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -671,6 +700,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -694,6 +724,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/FutureBuilder_widget_in_Flutter"
                 tools:ignore="RtlSymmetry" />
@@ -713,6 +744,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -736,6 +768,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/mixins"
                 tools:ignore="RtlSymmetry" />
@@ -757,6 +790,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/Null_aware_operators"
                 tools:ignore="RtlSymmetry" />

@@ -66,6 +66,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/oop_concept"
                 tools:ignore="RtlSymmetry" />
@@ -87,6 +88,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/class_and_object"
                 tools:ignore="RtlSymmetry" />
@@ -108,6 +110,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/Java_detail"
                 tools:ignore="RtlSymmetry" />
@@ -129,6 +132,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/features_java_detail"
                 tools:ignore="RtlSymmetry" />
@@ -150,6 +154,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/jvm_jre_jdk"
                 tools:ignore="RtlSymmetry" />
@@ -171,6 +176,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/instance_local_static"
                 tools:ignore="RtlSymmetry" />
@@ -192,6 +198,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/constructor_detail_java"
                 tools:ignore="RtlSymmetry" />
@@ -213,6 +220,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/destructor_detail"
                 tools:ignore="RtlSymmetry" />
@@ -234,6 +242,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/Method_and_constructor"
                 tools:ignore="RtlSymmetry" />
@@ -255,6 +264,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/copy_constructor_detail"
                 tools:ignore="RtlSymmetry" />
@@ -276,6 +286,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/support_to_pointer_not"
                 tools:ignore="RtlSymmetry" />
@@ -297,6 +308,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/not_pure_object_oriented"
                 tools:ignore="RtlSymmetry" />
@@ -334,6 +346,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_7sdp"
                 android:text="@string/variable_detail"
                 tools:ignore="RtlSymmetry" />
@@ -374,6 +387,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_7sdp"
                 android:text="@string/variable_initialization_detail"
                 tools:ignore="RtlSymmetry" />
@@ -396,6 +410,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/this_detail"
                 tools:ignore="RtlSymmetry" />
@@ -417,6 +432,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/datatype_detail"
                 tools:ignore="RtlSymmetry" />
@@ -438,6 +454,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/inheritance_detail"
                 tools:ignore="RtlSymmetry" />
@@ -459,6 +476,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/type_of_inheritance"
                 tools:ignore="RtlSymmetry" />
@@ -478,6 +496,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -501,6 +520,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/support_no_multiple"
                 tools:ignore="RtlSymmetry" />
@@ -522,6 +542,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/polymorphism_detail"
                 tools:ignore="RtlSymmetry" />
@@ -543,6 +564,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/method_overloading_and_method_overriding"
                 tools:ignore="RtlSymmetry" />
@@ -561,10 +583,10 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
-                android:paddingEnd="@dimen/_5sdp"
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/type_of_method_overloading"
                 tools:ignore="RtlSymmetry" />
@@ -586,6 +608,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/encapsulation_detail"
                 tools:ignore="RtlSymmetry" />
@@ -607,6 +630,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/achieve_abstraction"
                 tools:ignore="RtlSymmetry" />
@@ -628,6 +652,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/create_instance_or_not"
                 tools:ignore="RtlSymmetry" />
@@ -649,6 +674,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/virtual_function"
                 tools:ignore="RtlSymmetry" />
@@ -670,6 +696,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/difference_between_static_and_dynamic"
                 tools:ignore="RtlSymmetry" />
@@ -689,6 +716,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -712,6 +740,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/interface_detail"
                 tools:ignore="RtlSymmetry" />
@@ -733,6 +762,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/exception_detail"
                 tools:ignore="RtlSymmetry" />
@@ -754,6 +784,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/difference_in_Error_and_exception"
                 tools:ignore="RtlSymmetry" />
@@ -775,6 +806,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/difference_in_checked_and_unchecked"
                 tools:ignore="RtlSymmetry" />
@@ -796,6 +828,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/difference_between_string_stringBuffer"
                 tools:ignore="RtlSymmetry" />
@@ -817,6 +850,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/body_of_interface"
                 tools:ignore="RtlSymmetry" />
@@ -838,6 +872,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/init_block_detail"
                 tools:ignore="RtlSymmetry" />
@@ -859,6 +894,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/super_keyword_detail"
                 tools:ignore="RtlSymmetry" />
@@ -878,6 +914,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -899,6 +936,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -922,6 +960,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/access_modifier"
                 tools:ignore="RtlSymmetry" />
@@ -943,6 +982,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/difference_abstract_and_interface"
                 tools:ignore="RtlSymmetry" />
@@ -962,6 +1002,7 @@
                 android:background="@drawable/basic_design"
                 android:paddingStart="@dimen/_10sdp"
                 android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="8dp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
                 android:layout_margin="@dimen/_13sdp"
@@ -985,6 +1026,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/array_detail"
                 tools:ignore="RtlSymmetry" />
@@ -1006,6 +1048,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/difference_in_array_and_arraylist"
                 tools:ignore="RtlSymmetry" />
@@ -1027,6 +1070,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/map_set_interface"
                 tools:ignore="RtlSymmetry" />
@@ -1048,6 +1092,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/parent_class_of_java"
                 tools:ignore="RtlSymmetry" />
@@ -1069,6 +1114,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/public_void_main_detail"
                 tools:ignore="RtlSymmetry" />
@@ -1090,6 +1136,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/System_out_println_detail"
                 tools:ignore="RtlSymmetry" />
@@ -1111,6 +1158,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/type_of_java_class"
                 tools:ignore="RtlSymmetry" />
@@ -1132,6 +1180,7 @@
                 android:paddingTop="@dimen/_10sdp"
                 android:paddingBottom="@dimen/_10sdp"
                 android:textSize="@dimen/_15ssp"
+                android:paddingEnd="8dp"
                 android:layout_margin="@dimen/_13sdp"
                 android:text="@string/factory_method"
                 tools:ignore="RtlSymmetry" />
