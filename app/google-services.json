@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184345011760",
+    "project_id": "languageinterviewq",
+    "storage_bucket": "languageinterviewq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184345011760:android:e518e89aa524e44be92ff5",
+        "android_client_info": {
+          "package_name": "com.example.languageinterviewq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-H4JcxHU5pQOeooWcHgX1Mb2TpBvRUaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
